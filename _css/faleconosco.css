@@ -75,3 +75,23 @@ main p {
     font-size: 1.4em;
     line-height: 2em;
 }
+
+footer {
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.9em;
+    padding: 5px;
+}
+footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+footer a:hover {
+    text-decoration: underline;
+    color: rgba(22, 88, 115, 45
+    );
+}
