@@ -301,4 +301,64 @@ ul#album-de-fotos li#deep13:hover {
     background-size: 200px 200px ;
 } 
 
+ul#album-de-fotos li#deep14 {
+    background: url('fotos/deep13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+}
+
+ul#album-de-fotos li#deep14:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px ;
+} 
+
+ul#album-de-fotos li#deep15 {
+    background: url('fotos/deep13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+}
+
+ul#album-de-fotos li#deep15:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px ;
+} 
+
+ul#album-de-fotos li#deep16 {
+    background: url('fotos/deep13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+}
+
+ul#album-de-fotos li#deep16:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px ;
+} 
+
+ul#album-de-fotos li#deep17 {
+    background: url('fotos/deep13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+}
+
+ul#album-de-fotos li#deep17:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px ;
+} 
+
+ul#album-de-fotos li#deep18 {
+    background: url('fotos/deep13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+}
+
+ul#album-de-fotos li#deep18:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px ;
+} 
+
 
