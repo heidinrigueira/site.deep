@@ -76,7 +76,9 @@ main p {
     line-height: 2em;
 }
 main > article:section {
-    background-color: white;
+    background-color: rgb(207, 202, 202);
+    border-radius: 10px;
+    box-shadow: 1px 1px  rgba(2, 2, 2, 0.336);
     color: black;
     font-family: cursive;
     font-weight: normal;
