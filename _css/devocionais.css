@@ -75,7 +75,7 @@ main p {
     font-size: 1.4em;
     line-height: 2em;
 }
-main > section {
+main > article:section {
     background-color: white;
     color: black;
     font-family: cursive;
