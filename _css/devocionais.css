@@ -76,6 +76,34 @@ main p {
     line-height: 2em;
 }
 
+aside {
+    background-color: rgb(207, 202, 202);
+    border-radius: 10px;
+    box-shadow: 1px 1px  rgba(2, 2, 2, 0.336);
+  
+}
+aside > img {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+aside > h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3em;
+    color: black;
+    margin-bottom: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+aside > p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 1.2em ;
+    text-align: center;
+    padding-top: 0px;
+    font-weight: normal;
+}
+
 footer {
     background-color: black;
     color:white;
