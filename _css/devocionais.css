@@ -89,7 +89,7 @@ aside > img {
 }
 aside > h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 1.3em;
+    font-size: 1.1em;
     color: black;
     margin-bottom: 0px;
     font-weight: bold;
@@ -98,7 +98,7 @@ aside > h1 {
 aside > p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
-    font-size: 1.2em ;
+    font-size: 1em ;
     text-align: center;
     padding-top: 0px;
     font-weight: normal;
