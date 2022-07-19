@@ -1,5 +1,13 @@
 {
     "html.format.indentInnerHtml": true,
     "editor.linkedEditing": true,
-    "notebook.outline.showCodeCells": true
+    "notebook.outline.showCodeCells": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.preferences": {
+    
+    }
 }
