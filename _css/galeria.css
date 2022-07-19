@@ -109,7 +109,8 @@ ul#album-de-fotos {
     margin: 0 auto;
     padding: 50px;
     overflow: hidden;
-    list-style: none;   
+    list-style: none; 
+    -webkit-transition: ;  
 }
 
 ul#album-de-fotos li {
@@ -120,6 +121,7 @@ ul#album-de-fotos li {
     border: 5px solid #ffffff;
     background-color: #ffffff;
     box-shadow: 1px 1px 3px rgba(0,0,0,.4);
+    -webkit-transition: all .4s ease-in ;
 }
 
 ul#album-de-fotos li span {
@@ -130,6 +132,10 @@ ul#album-de-fotos li span {
     font-size: 9pt;
     line-height: 370px;
     padding: 5px;
+}
+
+ul#album-fotos li:hover {
+    -webkit-transform: scale(1.5);
 }
 
 ul#album-de-fotos li:hover span {
