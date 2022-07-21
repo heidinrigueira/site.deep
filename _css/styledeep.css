@@ -96,6 +96,9 @@ aside > h1 {
     font-weight: bold;
     text-align: center;
 }
+aside > a:hover {
+    color:black;
+}
 aside > p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
