@@ -32,11 +32,35 @@
                 <h2>Grupo de Jovens da Igreja Batista Vida Plena</h2>
             <p>"Influenciando gerações para o Reino de Deus."</p>
 
-            <aside>
-                <h2>Fale Conosco através dos canais abaixo</h2>
-               
-
-            </aside>
+            <aside>           
+                <form action="cadastro.js" method="post" autocomplete="off">
+                    
+                        <fieldset>
+                            <legend>Dados Pessoais</legend>
+                            <p>
+                                <label for="inome">Nome</label>
+                                <input type="text" name="nome" id="inome" autocomplete="nome" minlength="10" maxlength="30" placeholder="Nome Completo" required>
+                            </p>
+                            <p>
+                                <label for="iemail">E-mail</label>
+                                <input type="email" name="email" id="iemail" autocomplete="email" placeholder="nome@email.com" required>
+                            </p>
+                            <p>
+                                <label for="itel">Telefone</label>
+                                <input type="tel" name="tel" id="itel" autocomplete="tel" pattern="^\(\d{2}\)\d{4,5}-\d{4}$" placeholder="(xx)xxxx-xxxx" required>
+                            </p>
+                            <p>
+                                <label for="imsg">Mensagem</label>
+                                <input type="text" name="msg" id="imsg" minlength="10" maxlength="300" placeholder="Deixe aqui sua mensagem" required>
+                            </p>
+                            <p>
+                            <input type="submit" value="Enviar">
+                            <input type="reset" value="Limpar">
+                           </p>
+                        </fieldset>  
+                    
+                </form>
+            </aside>  
         </article>           
     </main>
 
